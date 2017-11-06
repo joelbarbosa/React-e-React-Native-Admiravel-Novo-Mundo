@@ -18,5 +18,5 @@ Neste Livro veremos o ecossistema do React para Web e para Mobile. Tentaremos fo
 
 Decidi escrever este livro como parte de aprender e compartilhar conhecimento e como amante do Open Source decidir que compartilharia-o no GitHub assim, no GitHub você encontrará todos capítulos e códigos dos exemplos aplicados. Irei disponibilizar os capítulos de acordo com que forem produzidos assim, você poderá acompanhar cada commit do livro.
 
-"Aquele que quebra uma coisa para descobrir o que ela é deixou o caminho da sabedoria.” 
---- Gandalf
+> "Aquele que quebra uma coisa para descobrir o que ela é deixou o caminho da sabedoria."
+> - [Gandalf para Saruman. Da obra: "Senhor dos Anéis: A Sociedade do Anel" (1954)]
