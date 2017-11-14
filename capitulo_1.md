@@ -1,8 +1,8 @@
 # Capítulo 1: Node.js, ES6, ES67 e além.
 
-Como a intenção do livro é realmente focar em código e nas Libs JavaScript, vamos dá apenas uma breave explicação do que são as versões JavaScript para aqueles que estão tendo o primeiro constato com a linguagem.
+Como a intenção do livro é realmente focar em código e nas libs JavaScript, vamos dar apenas uma breve explicação do que são as versões JavaScript para aqueles que estão tendo o primeiro contato com a linguagem.
 
-JavaScript é uma linguagem orientada a objetos criada para trabalhar do lado do cliente, ou seja, no Browser(Navegador). JavaScript está presente se não todos, em quase todos os Browsers existentes. E com o lançamento do Node.js possibilitanto a linguagem rodar não só do lado do cliente, mas também do lado do Servidor, assim como Java, Ruby, Python e muitas outras. Com isso JavaScript passou a ser conhecido como 'o Inglês das linguagens de programação'.
+JavaScript possui várias definições, pode ser considerada uma linguagem orientada a objetos, interpretada, imperativa, funcional e baseada em protótipos, digamos que ela é um mix de tudo isso, então pra não gerar muita dúvida ou discussões vamos dizer que ela é uma linguagem "client-side" criada para trabalhar do lado do cliente, ou seja, no Browser(Navegador). JavaScript está presente hoje em praticamente todos os níveis de desenvolvimento. Com o lançamento do Node.js, foi possível rodar não só do lado do cliente, mas também do lado do Servidor, assim como Java, Ruby, Python e muitas outras. Com isso JavaScript passou a ser conhecido como 'o Inglês das linguagens de programação'.
 
 Se você já andou pesquisando sobre JavaScript, já deve ter se deparado com as siglas ES5, ES6 ou ES7 assim por diante. Isto é simples, assim como Java tem suas versões Java 8, Java 9... JavaScript também é versionado e JavaScript é versionado sobre o Padrão Internacional ECMA, o que resulta no nome ECMAScript e assim nós temos ECMAScript 2015, ECMAScript 2016 e assim por diante. A única confusão é que  ECMAScript 2015 = ES6 e ECMAScript 2016 = ES7. Não entrarei em detálhes sobre isso más você poderá encontrar mais assunto aqui: https://pt.wikipedia.org/wiki/JavaScript
 
@@ -28,7 +28,7 @@ Como percebido nosso programa gerou uma caixa com alerta `Olá Mundo!`. Pronto v
 
 ### Variáveis
 
-Variáveis são onde armazenamos valores para uso futuro ou não. Em JavaScript temos `var`, `const` e `let`. O `var` já é consideraod obsoleto então vamos focar apenas nos outros dois. Nosso próximo programa será uma Catraca de Festa para maiores de 18 anos. A regra é se maior de 18 pode entrar se não mandar para casa.
+Variáveis são onde armazenamos valores para uso futuro ou não. Em JavaScript temos `var`, `const` e `let`. O `var` já é considerado obsoleto então vamos focar apenas nos outros dois. Nosso próximo programa será uma Catraca de Festa para maiores de 18 anos. A regra é ser maior de 18 pode, caso contrário sugerir para casa.
 
 ```javascript
 
