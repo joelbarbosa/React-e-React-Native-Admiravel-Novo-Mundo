@@ -1,6 +1,6 @@
 # React e React Native Admirável Novo Mundo.
 
-# Introdução
+## Introdução
 
 O mundo do desenvolvimento de software veio passando por rápidas mudanças nos últimos anos, em específicamente na web, apareceram e sumiram diversas linguagens e Frameworks. Cada um com sua própria solução para o problema da Web e Mobile. Alguns lidaram e lidam com Web, outros com Mobile, sejam eles Android, IOs. Os mais ousados abraçavam os dois complexos mundos provendo soluções bidirecional para esses complexos mundos.
 
